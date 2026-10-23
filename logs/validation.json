@@ -1,0 +1,8 @@
+{
+  "no_nulls": true,
+  "unique_customer_ids": true,
+  "age_range": true,
+  "purchase_range": true,
+  "valid_categories": true,
+  "row_count": 10000
+}

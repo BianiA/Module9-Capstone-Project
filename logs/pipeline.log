@@ -1,0 +1,4 @@
+2026-10-23 01:32:04,640 INFO START pipeline
+2026-10-23 01:32:04,658 INFO Ingested 10000 rows
+2026-10-23 01:32:04,801 INFO Validation: {'no_nulls': True, 'unique_customer_ids': True, 'age_range': True, 'purchase_range': True, 'valid_categories': True, 'row_count': 10000}
+2026-10-23 01:32:05,960 INFO SUCCESS rows=10000 duration_seconds=1.32
